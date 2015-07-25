@@ -1,0 +1,21 @@
+
+h1 {
+	/* Changing the color of h1 elements to red */
+	color: red;
+	/* Center the text of h1 elements */
+	text-align: center;
+}
+
+p {
+	/* Changing the font-family of p elements */
+	font-family: Arial, serif;
+}
+
+body {
+	/* Changing the background color to blue */
+	background-color: blue;
+	/* Changing the width of elements in the body */
+	width: 50%;
+	/* Center  elements in the body */
+	margin: auto; 
+}
